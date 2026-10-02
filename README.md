@@ -113,7 +113,7 @@ python data_structures_and_graphs/n_queens.py
 ## 👨‍💻 Author
 
 **Ahmed Hamaydi**  
-*Aspiring Computer Engineer / Software Development Engineer*  
+*Aspiring Computer Engineer*  
 * University of Huddersfield — BEng (Hons) Electronic Engineering & Computer Systems *(Predicted 1st Class)*  
 * **GitHub:** [@ahmedhamaydi](https://github.com/ahmedhamaydi)  
 * **Email:** [ahmedhamaydi1914@gmail.com](mailto:ahmedhamaydi1914@gmail.com)
